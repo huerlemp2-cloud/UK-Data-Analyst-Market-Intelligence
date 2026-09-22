@@ -1,0 +1,10 @@
+capability_id,capability,capability_category
+1,Dashboarding,Reporting & Communication
+2,Data Analysis,Analysis
+3,Data Modelling,Data Management
+4,Data Quality,Data Management
+5,Data Transformation,Data Management
+6,Data Visualisation,Reporting & Communication
+7,Forecasting,Analysis
+8,KPI,Reporting & Communication
+9,Reporting,Reporting & Communication

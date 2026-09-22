@@ -1,0 +1,15 @@
+technology_id,technology,technology_category
+1,Azure,Cloud
+2,ETL,Data Engineering
+3,Excel,Spreadsheet
+4,Jira,Collaboration / Delivery
+5,Oracle,Enterprise / Database
+6,Power BI,BI / Visualisation
+7,Power Query,Data Transformation
+8,Python,Programming
+9,SAP,Enterprise Platform
+10,SQL,Programming / Query
+11,SQL Server,Database
+12,Salesforce,Enterprise Platform
+13,Snowflake,Data Platform
+14,Tableau,BI / Visualisation
